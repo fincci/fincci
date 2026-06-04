@@ -1,6 +1,6 @@
 ## Faaala Devs, sejam bem vindos 👋
 
-### Me chamo Filipe, comecei minha carreira como desenvolvedor frontend, desenvolvendo em JavaScript. Mas, porém, entretanto, todavia, hoje desbravo os campos do backend como desenvolvedor/analista, implementando e desenvolvendo soluções com o Planning Analytics da IBM, conhecido também como TM1!
+### Me chamo Filipe, comecei minha carreira como desenvolvedor frontend, desenvolvendo em JavaScript. Mas, porém, entretanto, todavia, hoje desbravo os campos do backend como desenvolvedor, implementando e desenvolvendo soluções com o Planning Analytics da IBM, conhecido também como TM1!
 
 #### Aqui no meu perfil, você encontrará majoritariamente alguns projetos que fiz quando estava aprendendo frontend, mas em um futuro próximo, pretendo trazer algumas integrações com o TM1.
 
@@ -9,15 +9,15 @@
     <img alt="cat" height="70px" src="src/ezgif-6-d560a58602.gif">
 </div>
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=fincci&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&rank_icon=github&card_width=489">
-</div>
-
 <div style="margin: 20px 0px">
+    <img src="src/tm1Icon.png" height="50px" />
+    <img alt="arch" src="https://skillicons.dev/icons?i=arch" />
+    <img alt="docker" src="https://skillicons.dev/icons?i=docker" />
+    <img alt="nextjs" src="https://skillicons.dev/icons?i=nextjs" />
+    <img alt="react" src="https://skillicons.dev/icons?i=react" />
     <img alt="typescript" src="https://skillicons.dev/icons?i=typescript" />
     <img alt="js" src="https://skillicons.dev/icons?i=js" />
-    <img alt="react" src="https://skillicons.dev/icons?i=react" />
-    <img alt="nextjs" src="https://skillicons.dev/icons?i=nextjs" />
+    <img alt="tailwind" src="https://skillicons.dev/icons?i=tailwind" />
     <img alt="styledcomponents" src="https://skillicons.dev/icons?i=styledcomponents" />
     <img alt="sass" src="https://skillicons.dev/icons?i=sass" />
     <img alt="html" src="https://skillicons.dev/icons?i=html" />
@@ -25,7 +25,7 @@
     <img alt="postman" src="https://skillicons.dev/icons?i=postman" />
     <img alt="git" src="https://skillicons.dev/icons?i=git" />
     <img alt="github" src="https://skillicons.dev/icons?i=github" />
-    <img src="src/tm1Icon.png" height="50px" />
+    <img alt="notion" src="https://skillicons.dev/icons?i=notion" />
     <img alt="avatar-filipe" align="right"  height="150px" width="150px" src="src/avatartransparent.gif">
 </div>
 
